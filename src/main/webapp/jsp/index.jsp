@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>지역구의원투표 프로그램</title>
 <link rel="stylesheet" href="../css/style.css?ver=1">
 </head>
 <body>
